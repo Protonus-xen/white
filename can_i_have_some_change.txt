@@ -1,0 +1,15 @@
+**** Version 0.1.1 ****
+	Ships:
+		Wroughtbulk Iron hullmod:
+			Fixed description.
+		Linked hullmod:
+			Remove the funny Red image requirement.
+	Weapons:
+		Added some descriptions.
+		Added the medium Twin Phase Lance.
+		Added the large Burst Needler.
+		Added the large Twin Plasma Cannon.
+		Triple Needler:
+			Flux per shot reduced from 150 to 135.
+		Heavy Twin BL:
+			Tier reduced from 2 to 1.
