@@ -1,4 +1,43 @@
+**** Version 0.1.2 ****
+	Campaign:
+		Augustine Conglomerate:
+			Added faction flag. (probably WIP)
+		Augustus Max: (requires reset for changes)
+			Added proper asteroid ring bands while asteroid fields are narrower.
+			Great August:
+				Fixed Market name from Gerban to Great August.
+	Ships:
+		Augustine Conglomerate:
+			Added the Bourry destroyer, a large Ballistic destroyer.
+			Wroughtbulk Iron hullmod:
+				Armor multiplier reduced from 4x to 3x.
+				Armor Strength multiplier from 0.2x to 0.25x.
+				Armor damage resistance increased from 20% to 25%.
+			Pitdog:
+				Center weapon slot changed from Hardpoint to Turret.
+			Anagama:
+				Added 1 Medium and 1 Small Ballistic turrets.
+				Ordinance points increased from 200 to 220.
+		Hylecium Stargazers:
+			Added the Trametes heavy destroyer. Fast, armored picket warship.
+			Burst Feed shipsystem:
+				Missile weapons now benefit from the effects.
+			Amanita:
+				Maximum Overdrive shipsystem now gives 25 top speed.
+	Weapons:
+		Augustine Conglomerate:
+			Added Great Mortar, a small mortar with a long cooldown.
+			Added Briket Cannon, a slower but more damaging Vulcan.
+			Added Great, Greater and Greatest cannons, heavier and more cumbersome arbalest cannons.
+		Hylecium Stargazers:
+			Added Light Quad Autocannon, a doubled dual light autocannon.
+	Wings:
+		Augustine Conglomerate:
+			Added the Burnorel plasma fighter. Yep.
+
 **** Version 0.1.1 ****
+	Campaign:
+		Added anti-dependency measures for other faction mods.
 	Ships:
 		Wroughtbulk Iron hullmod:
 			Fixed description.
