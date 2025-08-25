@@ -1,3 +1,124 @@
+**** Version 0.2 ****
+	Campaign:
+		Added starter, ship and weapon blueprint packages for Hylecium and Augustine.
+		Hylecium Stargazers:
+			Recreational Drugs are no longer illegal.
+	Nexerelin:
+		Removed the somehow unremoved Ynadar assets in the start setup.
+	Weapons:
+		Fixed typos on certain descriptions.
+		Augustine Conglomerate:
+			Added Greater Mortar.
+			Added Great, Greater and Greatest Auger Torpedo launchers.
+			All Augustine weapons now do double damage against asteroids.
+			Great Mortar:
+				Range reduced from 600 to 500.
+			Greatest Cannon:
+				Flux per shot reduced from 640 to 560.
+				Charge down increased from 4 to 5.
+		Hylecium Stargazers:
+			Added Triple Ion Cannon.
+			Added Triple Mining Blaster.
+			Added Light Twin MAG.
+			Added Double, Twister and Mars Reaper Torpedo launchers.
+			Light Quad Autocannon:
+				Sprites updated.
+				Ordinance cost increased from 6 to 7.
+				Flux per shot increased from 40 to 45.
+				Charge down reduced from 0.85 to 0.5.
+				Burst delay increased from 0.05 to 0.1.
+	Ships:
+		Added descriptions on ships that missed them.
+		Fixed typos on certain descriptions.
+		Some ships have their variants changed/added with the new weapons.
+		Augustine Conglomerate:
+			Added the Haybox light destroyer carrier.
+			Added the Kachelofen capital carrier.
+			Firm Drive now grants turning, albiet at a slow angle rate.
+			Wroughtbulk Iron hullmod:
+				Now gives discount to Augustine wings by 5 Ordinance points.
+			Pitdog:
+				Armor reduced from 500 (1500) to 400 (1200).
+				Shield efficiency reduced from 0.5 to 0.7.
+			Clayton:
+				Armor reduced from 350 (1050) to 250 (750).
+				Shield efficiency reduced from 0.5 to 0.7.
+			Hopskiln:
+				Sprite changed.
+				2 Small Ballistic turrets changed to Medium Ballistic turrets.
+				Fleet points reduced from 7 to 6.
+				Armor increased from 750 (2250) to 800 (2400).
+				Shield efficiency reduced from 0.5 to 0.7.
+				Max Turn speed increased from 30 to 45.
+				Turn Acceleration increased from 20 to 30.
+				Base Supply maintenance/recovery costs and Deployment points reduced from 8 to 7.
+			Bourry:
+				Large Ballistic Hardpoint changed to Composite.
+				Hull increased from 4500 to 5000.
+				Armor reduced from 900 (2700) to 750 (2250).
+				Shield efficiency reduced from 0.5 to 0.7.
+				Top Speed reduced from 70 to 60.
+				Acceleration reduced from 55 to 40.
+				Deceleration reduced from 40 to 30.
+				Max turn speed reduced from 40 to 30.
+				Turn Acceleration reduced from 30 to 20.
+			Shale:
+				Shield efficiency reduced from 0.5 to 0.7.
+			Hoffmann:
+				Armor reduced from 1000 (3000) to 900 (2700).
+				Shield efficiency reduced from 0.5 to 0.7.
+			Kamotte:
+				Armor reduced from 1400 (4200) to 1100 (3300).
+				Shield efficiency reduced from 0.5 to 0.7.
+			Calcine:
+				Added Expanded Missile Racks as built-in.
+				Ordinance points reduced from 70 to 40.
+				Hangar slots increased from 1 to 2.
+				Armor reduced from 800 (2400) to 600 (1800).
+				Shield efficiency reduced from 0.5 to 0.7.
+			Anagama:
+				Armor reduced from 1600 (4800) to 1300 (3900).
+				Shield efficiency reduced from 0.5 to 0.7.
+		Hylecium Stargazers:
+			Added the Inonotus heavy cruiser, a twin-heavy turret brawler.
+			Saprobe:
+				Fleet points increased from 5 to 8.
+				Base Supply maintenance/recovery costs and Deployment points increased from 7 to 9.
+				Flux Capacity increased from 4500 to 5000.
+			Pfeili:
+				Changed Medium Turret mount type to the correct Hardpoint mount type.
+				Medium Universal weapon slot position changed to reflect the hardpoint switch.
+				Fleet points reduced from 7 to 6.
+				Base Supply maintenance/recovery costs and Deployment points reduced from 9 to 7.
+			Formosus:
+				Siege Bank hullmod:
+					Non-Missile weapon Flux efficiency bonus added from 0% to 20%.
+					Range bonus limit increased from 700 to 800.
+					Range bonus increased from 100 to 200.
+					Range bonus now diminishes when it is closer to the limit.
+			Coprinus:
+				Base Supply maintenance/recovery costs and Deployment points increased from 25 to 32.
+			Armarillia:
+				Base Supply maintenance/recovery costs and Deployment points increased from 35 to 42.
+			Boletus:
+				Base Supply maintenance/recovery costs and Deployment points increased from 28 to 35.
+			Bisporus:
+				Base value reduced from 90000 to 80000.
+				Base Supply maintenance/recovery costs and Deployment points increased from 12 to 15.
+			Amanita:
+				Winglet modules:
+					Ordinance points increased from 80 to 90.
+	Wings:
+		Augustine Conglomerate:
+			Farmboar fighter:
+				Oridnance points cost increased from 5 to 10.
+			
+
+**** Version 0.1.3 ****
+	Ships:
+		Linked Hull (hidden, meant for ships with modules):
+			Removed the Auxiliary Thruster from the blocklist, as it causes crashes.
+
 **** Version 0.1.2 ****
 	Campaign:
 		Augustine Conglomerate:
