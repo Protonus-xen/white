@@ -1,3 +1,8 @@
+**** Version 0.2.0-RC1 ****
+	Ships:
+		Stainless Gaze:
+			Removed, finally, the last legacy bits of the previous faction hullmods.
+
 **** Version 0.2 ****
 	Campaign:
 		Added starter, ship and weapon blueprint packages for Hylecium and Augustine.
